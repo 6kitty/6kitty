@@ -5,28 +5,39 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌱 현재 학습/관심사  
-  - Rust, Python, Solidity, GitHub Actions  
-  - 자동화, 알고리즘, 보안, DevOps
- 
+### 🧑‍💻 About Me 
 <p>
-  <img src="https://img.shields.io/badge/Rust-222?style=flat&logo=rust" />
   <img src="https://img.shields.io/badge/Python-222?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Solidity-222?style=flat&logo=solidity" />
+  <img src="https://img.shields.io/badge/Rust-222?style=flat&logo=rust" />
+  <img src="https://img.shields.io/badge/C/C++-222?style=flat&logo=c" />
   <img src="https://img.shields.io/badge/GitHub Actions-222?style=flat&logo=github-actions" />
   <img src="https://img.shields.io/badge/Docker-222?style=flat&logo=docker" />
 </p>
 
-- 블로그&사이트: [6kitty.github.io](https://6kitty.github.io/)
-- GitHub: [@6kitty](https://github.com/6kitty)
-- 이메일: <code>sixeunseoth@gmail.com</code> 
 
+- 🌱 Currently learning & interested in:  
+  - Rust, Python, Solidity, GitHub Actions  
+  - Automation, Algorithms, Security, DevOps
+
+
+
+- Blog & Site: [6kitty.github.io](https://6kitty.github.io/)
+- GitHub: [@6kitty](https://github.com/6kitty)
+- Email: <code>sixeunseoth@gmail.com</code>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6kitty&show_icons=true&theme=tokyonight" alt="6kitty's github stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6kitty&theme=tokyonight" alt="6kitty's streak stats"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=6kitty&color=blueviolet" alt="Profile views"/>
-</p>
+
+---
+
+<!--
+✨ Thanks for visiting! ✨
+-->
