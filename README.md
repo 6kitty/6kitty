@@ -1,8 +1,4 @@
 <h1 align="center">Hi, I'm 6kitty 🐾</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlqZGF2Z2d2d2lkYXZ5aTd4cGh6c3ZwbzNtbzYxN3N1bHpyN2c2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="200" alt="cat typing gif"/>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me 
@@ -32,8 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6kitty&show_icons=true&theme=tokyonight" alt="6kitty's github stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6kitty&theme=tokyonight" alt="6kitty's streak stats"/>
 </p>
 
 ---
