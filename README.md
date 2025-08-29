@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm 6kitty 🐾</h1>
+
 ---
 
 ### 🧑‍💻 About Me 
@@ -26,9 +27,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6kitty&show_icons=true&theme=tokyonight" alt="6kitty's github stats"/>
-</p>
+
+  ![6kitty's github stats](https://github-readme-stats.vercel.app/api?username=6kitty&show_icons=true&theme=tokyonight")
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=6kitty)](https://git.io/streak-stats)
+
 
 ---
 
