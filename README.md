@@ -31,6 +31,10 @@
 ##  
 <br>
 
+[about me](https://6kitty.github.io/about)
+
+<br>
+
 [![TIL](http://img.shields.io/badge/-TIL-black?style=flat&logo=github)](https://6kitty.github.io)
 [![tistory](http://img.shields.io/badge/-tistory-orange?style=flat&logo=tistory)](https://6kitt-hack.tistory.com/)
 
