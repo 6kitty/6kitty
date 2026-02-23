@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm 6kitty 🐾</h1>
 
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/6kitty" width="600" height="150" />
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me 
